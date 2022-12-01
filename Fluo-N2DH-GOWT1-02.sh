@@ -1,0 +1,8 @@
+#!/bin/bash
+
+DATASET="Fluo-N2DH-GOWT1"
+LINEAGE="02"
+AUGMENT=1
+FROM_CROPS=0
+
+bash ISBI_inferece.sh ${DATASET} ${LINEAGE} ${AUGMENT} ${FROM_CROPS}

@@ -1,0 +1,8 @@
+name: lkirstenisbi
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.6.9
+  - pip:
+    - -r requirements.txt
