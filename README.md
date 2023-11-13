@@ -16,7 +16,7 @@ We also provide a [Google Colab notebook](https://github.com/LucasKirsten/Deep-C
 
 ## UFRGS - Oriented Cell Dataset Execution
 
-We provide the [weights](https://drive.google.com/drive/u/0/folders/13N4G9k1E6wO3-RWXQv0pXMI8-4bZeBKo) for the trained models, and a [bash script](https://github.com/LucasKirsten/Deep-Cell-Tracking-EBB/blob/master/RotationDetection/make_prediction.sh) for inference in the [UFRGS - Oriented Cell Dataset](TBD) (link to be provided).
+We provide the [weights](https://drive.google.com/drive/u/0/folders/13N4G9k1E6wO3-RWXQv0pXMI8-4bZeBKo) for the trained models, and a [bash script](https://github.com/LucasKirsten/Deep-Cell-Tracking-EBB/blob/master/RotationDetection/make_prediction.sh) for inference in the [UFRGS - Oriented Cell Dataset](https://drive.google.com/drive/folders/1Ua8OExEh12u4YiXfAErNpTPspOo6RQr2?usp=drive_link).
 
 ## Visual Results
 
