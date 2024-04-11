@@ -55,6 +55,16 @@ For the Cell Tracking-by-Detection algorithm:
 For the UFRGS - Oriented Cell dataset (OCD):
 
 ```
+@article{kirten2023oriented,
+  url = {https://doi.org/10.1101/2024.04.05.588327},
+  title={Oriented Cell Dataset: efficient imagery analyses using angular representation},
+  author={Kirsten, Lucas and Angonezi , Angelo and Oliveira , Fernanda and Faccioni , Juliano and Cassel , Camila and Santos de Sousa, Débora and Vedovatto , Samlai and Jung, Cláudio and Lenz, Guido},
+  year = {2024},
+	doi = {10.1101/2024.04.05.588327},
+	publisher = {Cold Spring Harbor Laboratory},
+  journal = {bioRxiv}
+}
+
 @data{ocd_dataset,
   doi = {10.21227/3rk2-b882},
   url = {https://dx.doi.org/10.21227/3rk2-b882},
