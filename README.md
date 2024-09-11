@@ -1,11 +1,13 @@
 # Detecting and Tracking Cells in Microscopic Images using Oriented Representations
 
-This repository contains the code for the [Cell Tracking-by-detection using Elliptical Bounding Boxes (Lucas N. Kirsten and Cláudio R. Jung)](https://arxiv.org/abs/2310.04895) paper.
+This repository contains the code for the following papers:
+- [Cell Tracking-by-detection using Elliptical Bounding Boxes (Lucas Kirsten and Cláudio Jung)](https://arxiv.org/abs/2310.04895)
+- [Oriented Cell Dataset: efficient imagery analyses using angular representation (Lucas Kirsten and Angelo Angonezi et al.)](https://www.biorxiv.org/content/10.1101/2024.04.05.588327v1)
 
 ## Topics
 
 - [CTC Execution](#ctc-execution)
-- [UFRGS - Oriented Cell Dataset Execution](#ufrgs---oriented-cell-dataset-execution)
+- [Oriented Cell Dataset (OCD)](#oriented-cell-dataset-ocd)
 - [Visual Results](#visual-results)
 - [Citation](#citation)
 
@@ -15,13 +17,17 @@ You can execute the prediction on the [CTC](http://celltrackingchallenge.net/) i
 
 We also provide a [Google Colab notebook](https://github.com/LucasKirsten/Deep-Cell-Tracking-EBB/blob/master/ISBI_Cell_Tracking.ipynb) to execute the complete pipeline.
 
-## UFRGS - Oriented Cell Dataset Execution
+## Oriented Cell Dataset (OCD)
 
-We provide the [weights](https://drive.google.com/drive/u/0/folders/13N4G9k1E6wO3-RWXQv0pXMI8-4bZeBKo) for the trained models, and a [bash script](https://github.com/LucasKirsten/Deep-Cell-Tracking-EBB/blob/master/RotationDetection/make_prediction.sh) for inference in the [UFRGS - Oriented Cell Dataset](https://ieee-dataport.org/documents/oriented-cell-dataset-ocd).
+*[LEGACY] We provide the [weights](https://drive.google.com/drive/u/0/folders/13N4G9k1E6wO3-RWXQv0pXMI8-4bZeBKo) for the trained models, and a [bash script](https://github.com/LucasKirsten/Deep-Cell-Tracking-EBB/blob/master/RotationDetection/make_prediction.sh) for inference in the [OCD](https://ieee-dataport.org/documents/oriented-cell-dataset-ocd).*
+
+The OCD dataset is available in the following: [IEEE-DataPort](https://ieee-dataport.org/documents/oriented-cell-dataset-ocd), [GoogleDrive](https://drive.google.com/drive/folders/1vREKlRz9QkSWrUApkZamv_oUrw3tOFI3?usp=drive_link)
+
+For updated code regarding training OCD with [MMRotate](https://github.com/open-mmlab/mmrotate) please refer to [here](https://github.com/jhlmarques/OCDDataset).
 
 ## Visual Results
 
-Below is examples of the code execution for the [CTC](http://celltrackingchallenge.net/) datasets:
+Below are examples of the code execution for the [CTC](http://celltrackingchallenge.net/) datasets:
 
 ### GOWT1-01
 ![GOWT1-01](images/GOWT1-01.gif)
@@ -52,7 +58,7 @@ For the Cell Tracking-by-Detection algorithm:
 }
 ```
 
-For the UFRGS - Oriented Cell dataset (OCD):
+For the Oriented Cell dataset (OCD):
 
 ```
 @article{kirten2023oriented,
