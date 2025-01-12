@@ -41,7 +41,7 @@ Below are examples of the code execution for the [CTC](http://celltrackingchalle
 
 ## Citation
 
-If you find this repository useful for your research, please use the following citations.
+If you find this repository useful for your research, please consider citing.
 
 For the Cell Tracking-by-Detection algorithm:
 ```
