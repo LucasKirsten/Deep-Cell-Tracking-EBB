@@ -59,7 +59,7 @@ For the Oriented Cell dataset (OCD):
 @article{kirten2023oriented,
   title={Oriented Cell Dataset: A Dataset and Benchmark for Oriented Cell Detection and Applications},
   author={Kirsten, Lucas and Angonezi, Angelo and Marques, Jose and Oliveira, Fernanda and Faccioni, Juliano and Cassel, Camila and Santos de Sousa, Débora and Vedovatto, Samlai and Lenz, Guido and Jung, Cl{\'a}udio},
-  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)},
+  journal={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)},
   year={2025}
 }
 ```
