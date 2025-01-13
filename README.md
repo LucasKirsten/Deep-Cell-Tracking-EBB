@@ -51,33 +51,15 @@ For the Cell Tracking-by-Detection algorithm:
   journal={arXiv preprint arXiv:2310.04895},
   year={2023}
 }
-
-@article{kirsten2023detecting,
-  title={Detecting and tracking cells in microscopic images using oriented representations},
-  author={Kirsten, Lucas Nedel},
-  year={2023}
-}
 ```
 
 For the Oriented Cell dataset (OCD):
 
 ```
 @article{kirten2023oriented,
-  url = {https://doi.org/10.1101/2024.04.05.588327},
-  title={Oriented Cell Dataset: efficient imagery analyses using angular representation},
-  author={Kirsten, Lucas and Angonezi , Angelo and Oliveira , Fernanda and Faccioni , Juliano and Cassel , Camila and Santos de Sousa, Débora and Vedovatto , Samlai and Jung, Cláudio and Lenz, Guido},
-  year = {2024},
-	doi = {10.1101/2024.04.05.588327},
-	publisher = {Cold Spring Harbor Laboratory},
-  journal = {bioRxiv}
-}
-
-@data{ocd_dataset,
-  doi = {10.21227/3rk2-b882},
-  url = {https://dx.doi.org/10.21227/3rk2-b882},
-  author = {Angonezi , Angelo and Oliveira , Fernanda and Faccioni , Juliano and Cassel , Camila and Santos de Sousa, Débora and Vedovatto , Samlai and Lenz, Guido and Jung, Cláudio and Kirsten, Lucas},
-  publisher = {IEEE Dataport},
-  title = {Oriented Cell Dataset (OCD)},
-  year = {2024}
+  title={Oriented Cell Dataset: A Dataset and Benchmark for Oriented Cell Detection and Applications},
+  author={Kirsten, Lucas and Angonezi, Angelo and Marques, Jose and Oliveira, Fernanda and Faccioni, Juliano and Cassel, Camila and Santos de Sousa, Débora and Vedovatto, Samlai and Lenz, Guido and Jung, Cl{\'a}udio},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)},
+  year={2025}
 }
 ```
