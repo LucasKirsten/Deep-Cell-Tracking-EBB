@@ -3,7 +3,7 @@
 This repository contains the code for the following papers:
 - [Cell Tracking-by-detection using Elliptical Bounding Boxes (Lucas Kirsten and Cláudio Jung)](https://arxiv.org/abs/2310.04895)
 
--  [Oriented Cell Dataset: efficient imagery analyses using angular representation (Lucas Kirsten and Angelo Angonezi et al.)](https://www.biorxiv.org/content/10.1101/2024.04.05.588327v1)
+-  [Oriented Cell Dataset: efficient imagery analyses using angular representation (Lucas Kirsten et al.)](https://www.biorxiv.org/content/10.1101/2024.04.05.588327v1)
 
 ## Topics
 
