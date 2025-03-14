@@ -1,9 +1,9 @@
 # Detecting and Tracking Cells in Microscopic Images using Oriented Representations
 
 This repository contains the code for the following papers:
-- [Cell Tracking-by-detection using Elliptical Bounding Boxes (Lucas Kirsten and Cláudio Jung)](https://arxiv.org/abs/2310.04895)
+- [Cell Tracking-by-detection using Elliptical Bounding Boxes (Lucas Kirsten and Cláudio Jung)](https://www.sciencedirect.com/science/article/pii/S1047320325000392)
 
--  [Oriented Cell Dataset: efficient imagery analyses using angular representation (Lucas Kirsten et al.)](https://www.biorxiv.org/content/10.1101/2024.04.05.588327v1)
+-  [Oriented Cell Dataset: efficient imagery analyses using angular representation (Lucas Kirsten et al.)](https://openaccess.thecvf.com/content/WACV2025/papers/Kirsten_Oriented_Cell_Dataset_A_Dataset_and_Benchmark_for_Oriented_Cell_WACV_2025_paper.pdf)
 
 ## Topics
 
@@ -45,21 +45,27 @@ If you find this repository useful for your research, please consider citing.
 
 For the Cell Tracking-by-Detection algorithm:
 ```
-@article{kirten2023cell,
-  title={Cell Tracking-by-detection using Elliptical Bounding Boxes},
-  author={Kirten, Lucas N and Jung, Cl{\'a}udio R},
-  journal={arXiv preprint arXiv:2310.04895},
-  year={2023}
+@article{KIRSTEN2025104425,
+title = {Cell tracking-by-detection using elliptical bounding boxes},
+journal = {Journal of Visual Communication and Image Representation},
+pages = {104425},
+year = {2025},
+issn = {1047-3203},
+doi = {https://doi.org/10.1016/j.jvcir.2025.104425},
+url = {https://www.sciencedirect.com/science/article/pii/S1047320325000392},
+author = {Lucas N. Kirsten and Cláudio R. Jung},
 }
 ```
 
 For the Oriented Cell dataset (OCD):
 
 ```
-@article{kirten2023oriented,
-  title={Oriented Cell Dataset: A Dataset and Benchmark for Oriented Cell Detection and Applications},
-  author={Kirsten, Lucas and Angonezi, Angelo and Marques, Jose and Oliveira, Fernanda and Faccioni, Juliano and Cassel, Camila and Santos de Sousa, Débora and Vedovatto, Samlai and Lenz, Guido and Jung, Cl{\'a}udio},
-  journal={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)},
-  year={2025}
+@InProceedings{Kirsten_2025_WACV,
+    author    = {Kirsten, Lucas and Angonezi, Angelo and Marques, Jose and Oliveira, Fernanda and Faccioni, Juliano and Cassel, Camila and de Sousa, D\'ebora and Vedovatto, Samlai and Lenz, Guido and Jung, Claudio},
+    title     = {Oriented Cell Dataset: A Dataset and Benchmark for Oriented Cell Detection and Applications},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {3996-4005}
 }
 ```
