@@ -46,14 +46,14 @@ If you find this repository useful for your research, please consider citing.
 For the Cell Tracking-by-Detection algorithm:
 ```
 @article{KIRSTEN2025104425,
-title = {Cell tracking-by-detection using elliptical bounding boxes},
-journal = {Journal of Visual Communication and Image Representation},
-pages = {104425},
-year = {2025},
-issn = {1047-3203},
-doi = {https://doi.org/10.1016/j.jvcir.2025.104425},
-url = {https://www.sciencedirect.com/science/article/pii/S1047320325000392},
-author = {Lucas N. Kirsten and Cláudio R. Jung},
+    title   = {Cell tracking-by-detection using elliptical bounding boxes},
+    journal = {Journal of Visual Communication and Image Representation},
+    pages   = {104425},
+    year    = {2025},
+    issn    = {1047-3203},
+    doi     = {https://doi.org/10.1016/j.jvcir.2025.104425},
+    url     = {https://www.sciencedirect.com/science/article/pii/S1047320325000392},
+    author  = {Lucas N. Kirsten and Cláudio R. Jung},
 }
 ```
 
